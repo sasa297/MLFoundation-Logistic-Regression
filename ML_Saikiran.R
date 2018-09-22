@@ -1,8 +1,6 @@
-############ Assignment 2 - Machine Learning ###########
 ############ Saikiran N. Pasikanti #####################
 
 ##1(a)#######################################################
-# Q1 Download Loan-Approval-Prediction.csv dataset from portal and Perform following Operations:
 # a) import the Loan-Approval-Prediction.csv
 Data1 <- read.csv("C:\\001_SAIKIRAN\\AEGIS\\ML\\Assignment 2\\Loan-Approval-Prediction.csv",
                   header=T, na.strings = c("","NaN"," ",NA))
